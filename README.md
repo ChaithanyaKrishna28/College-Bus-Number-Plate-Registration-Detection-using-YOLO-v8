@@ -1,2 +1,3 @@
-# College-Bus-Number-Plate-Registration-Detection-using-YOLO-v8
-Project implementing the YOLO-V8, state-of-the-art real-time Object Detection algorithm for College Bus Number Plate Registration Detection using YOLO-V8 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f4ffe58e3512a2882de356dadd89a5b335b37b17b01c1cade1d75f04c73fd45
+size 221
