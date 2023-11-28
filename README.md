@@ -11,3 +11,4 @@ This project implements a system for College Bus Number Plate Registration Detec
 
 ## Usage
 1. Clone the repository:
+https://github.com/MinorProject-YOLOV8/College-Bus-Number-Plate-Registration-Detection-using-YOLO-v8.git
